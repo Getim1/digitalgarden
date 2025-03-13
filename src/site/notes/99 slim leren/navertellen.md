@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/99-slim-leren/navertellen/","created":"2025-02-18T18:25:05.996+01:00","updated":"2025-02-25T07:58:41.900+01:00"}
+{"dg-publish":true,"permalink":"/99-slim-leren/navertellen/","created":"2025-03-04T18:44:51.505+01:00","updated":"2025-02-25T07:58:41.900+01:00"}
 ---
 
 Een leuke, maar ook uitdagende,vorm van instuderen  is duo-leren. 

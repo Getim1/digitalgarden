@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/99-slim-leren/afwisselen/","tags":["#topic"],"created":"2025-01-30T11:22:16.947+01:00","updated":"2025-02-25T07:59:17.724+01:00"}
+{"dg-publish":true,"permalink":"/99-slim-leren/afwisselen/","tags":["#topic"],"created":"2025-03-04T18:44:51.561+01:00","updated":"2025-02-25T07:59:17.724+01:00"}
 ---
 
 # Wat?

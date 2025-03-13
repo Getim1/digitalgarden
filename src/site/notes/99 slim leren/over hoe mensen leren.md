@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/99-slim-leren/over-hoe-mensen-leren/","created":"2025-02-15T08:48:42.820+01:00","updated":"2025-02-25T08:41:50.394+01:00"}
+{"dg-publish":true,"permalink":"/99-slim-leren/over-hoe-mensen-leren/","created":"2025-03-04T18:44:51.795+01:00","updated":"2025-02-25T08:41:50.394+01:00"}
 ---
 
 Leren is verbinding maken tussen je [[99 slim leren/kortetermijngeheugen\|kortetermijngeheugen]] en je [[99 slim leren/langetermijngeheugen\|langetermijngeheugen]]

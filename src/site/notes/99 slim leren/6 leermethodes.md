@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/99-slim-leren/6-leermethodes/","created":"2025-02-10T16:04:13.630+01:00","updated":"2025-02-18T19:56:37.733+01:00"}
+{"dg-publish":true,"permalink":"/99-slim-leren/6-leermethodes/","created":"2025-03-04T18:44:50.215+01:00","updated":"2025-02-18T19:56:37.733+01:00"}
 ---
 
 # slim leren: de 6 leermethodes

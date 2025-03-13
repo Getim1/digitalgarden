@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/99-slim-leren/cornell/","created":"2025-02-15T15:00:42.735+01:00","updated":"2025-02-25T07:49:51.502+01:00"}
+{"dg-publish":true,"permalink":"/99-slim-leren/cornell/","created":"2025-03-04T18:44:51.096+01:00","updated":"2025-02-25T07:49:51.502+01:00"}
 ---
 
 ## De Cornell-methode uitgelegd

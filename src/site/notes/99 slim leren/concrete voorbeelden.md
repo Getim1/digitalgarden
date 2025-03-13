@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/99-slim-leren/concrete-voorbeelden/","tags":["#topic"],"created":"2025-01-30T11:22:16.947+01:00","updated":"2025-02-25T09:50:51.502+01:00"}
+{"dg-publish":true,"permalink":"/99-slim-leren/concrete-voorbeelden/","tags":["#topic"],"created":"2025-03-04T18:44:53.127+01:00","updated":"2025-02-25T09:50:51.502+01:00"}
 ---
 
 # Wat?
