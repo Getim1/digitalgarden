@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/99-slim-leren/uiteenrafelen/","created":"2025-03-04T18:44:51.458+01:00","updated":"2025-03-13T14:55:32.814+01:00"}
+{"dg-publish":true,"permalink":"/99-slim-leren/uiteenrafelen/","created":"2025-01-30T11:22:16.947+01:00","updated":"2025-03-13T14:55:32.814+01:00"}
 ---
 
 vertaling van "elaboration"

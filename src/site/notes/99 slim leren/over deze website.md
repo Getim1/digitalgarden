@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/99-slim-leren/over-deze-website/","created":"2025-03-04T18:44:50.597+01:00","updated":"2025-02-18T19:57:33.921+01:00"}
+{"dg-publish":true,"permalink":"/99-slim-leren/over-deze-website/","created":"2025-02-15T08:31:33.987+01:00","updated":"2025-02-18T19:57:33.921+01:00"}
 ---
 
  Deze website is niet af. Deze website zal ook nooit af zijn. Zoals leren nooit af is en altijd verder gaat. 

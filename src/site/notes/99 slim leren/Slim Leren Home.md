@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/99-slim-leren/slim-leren-home/","tags":["gardenEntry"],"created":"2025-03-04T18:44:49.263+01:00","updated":"2025-02-18T08:40:09.948+01:00"}
+{"dg-publish":true,"permalink":"/99-slim-leren/slim-leren-home/","tags":["gardenEntry"],"created":"2025-02-10T11:19:56.042+01:00","updated":"2025-02-18T08:40:09.948+01:00"}
 ---
 
 ## [[99 slim leren/welkom\|welkom]]

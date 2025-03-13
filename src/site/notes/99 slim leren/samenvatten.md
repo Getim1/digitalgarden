@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/99-slim-leren/samenvatten/","created":"2025-03-04T18:44:51.354+01:00","updated":"2025-02-25T07:50:56.315+01:00"}
+{"dg-publish":true,"permalink":"/99-slim-leren/samenvatten/","created":"2025-02-15T14:20:47.921+01:00","updated":"2025-02-25T07:50:56.315+01:00"}
 ---
 
 

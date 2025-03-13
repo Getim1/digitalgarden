@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/99-slim-leren/contactadres/","created":"2025-03-04T18:44:50.320+01:00","updated":"2025-02-18T19:57:10.839+01:00"}
+{"dg-publish":true,"permalink":"/99-slim-leren/contactadres/","created":"2025-02-15T08:38:55.521+01:00","updated":"2025-02-18T19:57:10.839+01:00"}
 ---
 
 Heb je vragen?

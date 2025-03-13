@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/99-slim-leren/de-werking-van-je-brein/","created":"2025-03-04T18:44:51.148+01:00","updated":"2025-02-25T07:49:57.788+01:00"}
+{"dg-publish":true,"permalink":"/99-slim-leren/de-werking-van-je-brein/","created":"2025-02-18T08:41:59.785+01:00","updated":"2025-02-25T07:49:57.788+01:00"}
 ---
 
 

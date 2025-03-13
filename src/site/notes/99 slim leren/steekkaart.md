@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/99-slim-leren/steekkaart/","created":"2025-03-04T18:44:51.405+01:00","updated":"2025-02-25T07:51:13.653+01:00"}
+{"dg-publish":true,"permalink":"/99-slim-leren/steekkaart/","created":"2025-02-18T09:07:22.755+01:00","updated":"2025-02-25T07:51:13.653+01:00"}
 ---
 
 Leren met steekkaarten is super eenvoudig. En heel efficiënt. Het gaat als volgt

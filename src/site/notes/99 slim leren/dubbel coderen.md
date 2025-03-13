@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/99-slim-leren/dubbel-coderen/","created":"2025-03-04T18:44:54.602+01:00","updated":"2025-03-13T14:39:46.686+01:00"}
+{"dg-publish":true,"permalink":"/99-slim-leren/dubbel-coderen/","created":"2025-01-30T11:22:16.947+01:00","updated":"2025-03-13T14:39:46.686+01:00"}
 ---
 
 # Wat?
