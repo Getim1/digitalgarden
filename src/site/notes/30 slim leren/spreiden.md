@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-slim-leren/spreiden/","tags":["#topic"],"created":"2025-03-04T18:44:50.149+01:00","updated":"2025-04-01T09:50:15.616+02:00"}
+{"dg-publish":true,"permalink":"/30-slim-leren/spreiden/","tags":["#topic"],"created":"2025-03-04T18:44:50.149+01:00","updated":"2025-04-01T10:34:47.717+02:00"}
 ---
 
 # Wat?
@@ -8,6 +8,6 @@ Dat betekent ook dat het niet verstandig is te lang na elkaar te studeren aan he
 # Hoe?
 ## [[30 slim leren/plannen\|plannen]]
 
-## [[05 leren/Pomodoro\|pomodoro]]
+## [[30 slim leren/Pomodoro\|Pomodoro]]
 ## [[30 slim leren/gezonde levensstijl\|gezonde levensstijl]]
 
