@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-slim-leren/gezonde-levensstijl/","created":"2025-04-01T09:50:17.902+02:00","updated":"2025-04-01T10:28:50.595+02:00"}
+{"dg-publish":true,"permalink":"/30-slim-leren/gezonde-levensstijl/","created":"2025-04-01T09:50:17.902+02:00","updated":"2025-04-05T18:23:02.297+02:00"}
 ---
 
 ``` dataview
@@ -12,7 +12,7 @@ Je leren goeds spreiden heeft ook te maken met een gezonde levensstijl. Dat heef
 2. Leren is gedeeltelijk een mentale activiteit. Met een fris hoofd kan je beter leren dan met een hoofd vol muizenissen en zorgen. Je mentale kracht kan je versterken door goed voor je eigen welzijn te zorgen.  Voldoende en goed rusten en voldoende bewegen zijn daarom ook voor je leervermogen belangrijk.
 ## hoe?
 1. Zorg voor voldoende gezonde voeding.  Eerder dan te letten op wat je niet mag eten, kan je beter letten op waar je beter meer van zou eten.  Er zijn eigenlijk maar drie regels die je moet in de gaten houden:
-	1. eet zoveel mogelijk enkelvoudige voeding. Niet-samengestelde voedingsmiddelen zijn  doorgaans veel gezonder. Om te weten of iets een industrieel samengesteld voedingsmiddel is kijk je op de verpakking. Daar staan altijd alle ingrediënten op in volgorde van belangrijkheid. Op een blik tomatensoep staan gemakkelijk 10 verschillende ingrediënten, enkelvoudige tomatensoep bestaat enkel uit water, tomaten en wat kruiden.
+	1. eet zoveel mogelijk enkelvoudige voeding. Niet-ultrabewerkte voedingsmiddelen zijn  doorgaans veel gezonder. Om te weten of iets een industrieel samengesteld voedingsmiddel is kijk je op de verpakking. Daar staan altijd alle ingrediënten op in volgorde van belangrijkheid. Op een blik tomatensoep staan gemakkelijk 10 verschillende ingrediënten, enkelvoudige tomatensoep bestaat enkel uit water, tomaten en wat kruiden.
 	2. eet gevarieerd.  Variatie in je voeding is belangrijk, ook om ervoor te zorgen dat je hersenen alle nodige voedingsstoffen krijgen. Eet regelmatig verschillende soorten fruit en groente. Eet voldoende afgewisseld proteïnerijke voeding als vis of vlees of vegetarische alternatieven. En een voldoende trage suikers bijvoorbeeld in de vorm van brood of (natuur)aardappelen.
 	3. Vermijd zoveel mogelijk ongezonde voedingsmiddelen. Je kent het lijstje: wees matig met suikerrijke dranken, alcohol, dierlijke vetten, zout,... 
 2. Zorg voor een goed levensritme
