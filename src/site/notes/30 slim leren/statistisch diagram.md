@@ -1,11 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/30-slim-leren/statistisch-diagram/","created":"2025-03-13T10:58:30.762+01:00","updated":"2025-03-13T11:18:35.084+01:00"}
+{"dg-publish":true,"permalink":"/30-slim-leren/statistisch-diagram/","created":"2025-03-13T10:58:30.762+01:00","updated":"2025-04-05T19:16:07.798+02:00"}
 ---
 
-``` dataview
-TABLE file.folder, file.cday, file.mday
-WHERE file = this.file
-```
 Rekenbladprogramma's geven een goed overzicht van mogelijke voorstellingen van statistische gegevens. Hieronder zie je, ter inspiratie, de mogelijkheden bij het programma LibreOffice Calc. Je kan natuurlijk zelf ook varianten verzinnen. Proberen is de boodschap.
 
 ![Pasted image 20250313110820.png](/img/user/05%20leren/Pasted%20image%2020250313110820.png)![Pasted image 20250313110857.png](/img/user/05%20leren/Pasted%20image%2020250313110857.png)

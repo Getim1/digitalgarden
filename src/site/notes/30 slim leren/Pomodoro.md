@@ -1,11 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/30-slim-leren/pomodoro/","created":"2025-03-21T18:31:28.260+01:00","updated":"2025-03-31T20:30:04.542+02:00"}
+{"dg-publish":true,"permalink":"/30-slim-leren/pomodoro/","created":"2025-03-21T18:31:28.260+01:00","updated":"2025-04-05T19:15:37.836+02:00"}
 ---
 
-``` dataview
-TABLE file.folder, file.cday, file.mday
-WHERE file = this.file
-```
 Een heel goede techniek om voldoende afwisselend te studeren is de Pomodoro- methode.  Je hebt er alleen timer voor nodig en een strak plan. Het gaat als volgt:
 - Je zet je timer op 15 minuten
 - Je studeert 15 minuten zo geconcentreerd mogelijk.  Dat wil zeggen: zonder afleiding door muziek, snoepen, GSM, ... En zodra je merkt dat je gedachten afdwalen probeer je zo snel mogelijk terug alleen met je cursus bezig te zijn.

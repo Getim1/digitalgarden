@@ -1,12 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/30-slim-leren/verbindingen/","created":"2025-03-25T15:01:58.002+01:00","updated":"2025-03-25T15:04:00.179+01:00"}
+{"dg-publish":true,"permalink":"/30-slim-leren/verbindingen/","created":"2025-03-25T15:01:58.002+01:00","updated":"2025-04-05T19:16:44.055+02:00"}
 ---
 
-``` dataview
-TABLE file.folder, file.cday, file.mday
-WHERE file = this.file
-```
-mogelijke varbanden:
+mogelijke verbanden:
 - hangt samen met ...
 - ondersteunt ...
 - maakt deel uit van ....

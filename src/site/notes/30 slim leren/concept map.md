@@ -1,11 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/30-slim-leren/concept-map/","created":"2025-03-25T14:53:28.733+01:00","updated":"2025-03-25T15:19:32.186+01:00"}
+{"dg-publish":true,"permalink":"/30-slim-leren/concept-map/","created":"2025-03-25T14:53:28.733+01:00","updated":"2025-04-05T19:13:49.075+02:00"}
 ---
 
-``` dataview
-TABLE file.folder, file.cday, file.mday
-WHERE file = this.file
-```
+
 ## Wat?
 Een conceptmap is een beeldende voorstelling van kernbegrippen en hun verbanden met elkaar. Een conceptmap lijkt hiermee op een [[30 slim leren/mindmap\|mindmap]] maar dan een waarbij de begrippen niet door één verbinding aan elkaar gekoppeld worden, maar door meerdere verbindingen. En doordat die verbindingen dan vaak ook nog een naam krijgen wordt een conceptmap al vlug veel uitgebreider dan een mindmap. Vandaar: vooral te gebruiken voor grotere gehelen en voor moeilijkere onderwerpen.
 

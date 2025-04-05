@@ -1,11 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/30-slim-leren/mindmap/","created":"2025-03-25T14:04:26.080+01:00","updated":"2025-03-25T15:17:26.442+01:00"}
+{"dg-publish":true,"permalink":"/30-slim-leren/mindmap/","created":"2025-03-25T14:04:26.080+01:00","updated":"2025-04-05T19:15:11.434+02:00"}
 ---
 
-``` dataview
-TABLE file.folder, file.cday, file.mday
-WHERE file = this.file
-```
 ##  wat?
 Mindmappen is een manier in beeld brengen waarbij je de leerstof in steeds fijnere vertakkingen uiteenrafelt. DFoordat je de leerstof in één beeld samenvat, blijft dat gemakkelijker in je langetermijngeheugen hangen
 ## hoe?

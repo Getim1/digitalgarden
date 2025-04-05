@@ -1,11 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/30-slim-leren/gezonde-levensstijl/","created":"2025-04-01T09:50:17.902+02:00","updated":"2025-04-05T18:23:02.297+02:00"}
+{"dg-publish":true,"permalink":"/30-slim-leren/gezonde-levensstijl/","created":"2025-04-01T09:50:17.902+02:00","updated":"2025-04-05T19:14:47.409+02:00"}
 ---
 
-``` dataview
-TABLE file.folder, file.cday, file.mday
-WHERE file = this.file
-```
+
 ## wat?
 Je leren goeds spreiden heeft ook te maken met een gezonde levensstijl. Dat heeft twee redenen:
 1. Leren is ten dele een lichamelijke activiteit. Het zijn je hersenen die je leren moeten verwerkt krijgen. Hoe beter je hersenen 'in vorm' zijn, hoe beter ze kunnen leren. En omdat alles met alles samenhangt in je lichaam, zijn je hersenen alleen 'in vorm' als je hele lichaam dat is.  Leren met tandpijn lukt nauwelijks. En met koorts al evenmin. Hoe gezonder je bent, hoe beter je hersenen in staat zijn te leren.
