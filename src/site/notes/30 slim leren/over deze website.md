@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-slim-leren/over-deze-website/","created":"2025-03-04T18:44:50.597+01:00","updated":"2025-02-18T19:57:33.921+01:00"}
+{"dg-publish":true,"permalink":"/30-slim-leren/over-deze-website/","created":"2025-03-23T03:33:48.671+01:00","updated":"2025-04-06T09:31:59.859+02:00"}
 ---
 
  Deze website is niet af. Deze website zal ook nooit af zijn. Zoals leren nooit af is en altijd verder gaat. 
@@ -8,5 +8,5 @@ Deze website gebruikt de technologie van Obsidian, een app die informatie verzam
 
 Je vindt op deze website twee soorten links. De heldere onderlijnde links brengen je naar een pagina die gepubliceerd is en die je dus kan lezen. De lichtere links verwijzen naar pagina's die nog niet gepubliceerd zijn.  Regelmatig worden er  bijkomende pagina's gepubliceerd. Kom dus regelmatig eens terug kijken wat er bij is gekomen. En als je graag zou willen dat een bepaalde pagina sneller gepubliceerd wordt, stuur dan een mailtje naar het [[30 slim leren/contactadres\|contactadres]]. Naarmate een pagina meer gevraagd wordt, schuift hij omhoog in het prioriteitenlijstje en wordt hij sneller afgewerkt.
 
-Links op deze website zijn tweerichtingslinks. Dat wil zeggen dat elke link een verbinding legt met een andere pagina én terug. Dat maakt het gemakkelijk om je begrip van de dingen uit te breiden door het zoeken via aanverwante begrippen heen en weer. Probeer maar uit. Je merkt vanzelf wel hoe dat werkt.
+Op deze website zijn alle links tweerichtingslinks. Dat wil zeggen dat elke link een verbinding legt met een andere pagina én terug. Dat maakt het gemakkelijk om je begrip van de dingen uit te breiden door het zoeken via aanverwante begrippen heen en weer. Probeer maar uit. Je merkt vanzelf wel hoe dat werkt. Om je te helpen: Je vindt rechts bovenaan een grafische voorstelling van welke links aanwezig zijn voor je pagina. En onderaan rechts vind je alle links die verwijzen naar de pagina die je nu aan het bekijken bent.  Tot slot: aan de linkerkant vind je een lijst met alle gepubliceerde pagina's van de website met bovenaan een link naar de homepagina Slim Leren.
 
