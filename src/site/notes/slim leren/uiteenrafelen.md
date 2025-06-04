@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/slim leren/uiteenrafelen/","created":"2025-06-03T21:05:06.530+02:00","updated":"2025-06-04T13:27:33.017+02:00"}
+{"dg-publish":true,"permalink":"/slim leren/uiteenrafelen/","created":"2025-06-04T16:32:15.601+02:00","updated":"2025-06-04T17:22:16.921+02:00"}
 ---
+
 
 # Wat
 Een stuk leerstof studeren lijkt vaak op het uiteenrafelen van een touw. In één touw zitten verschillende strengen vervat, zodanig dat al die strengen samen  één sterk geheel vormen. Als je de verschillende bouwstenen van je leerstof kan vinden, kan je een sterk begrip krijgen van wat je leerde.
-Uiteenrafelen is ook een zeer goede manier om een [[F Cognitief/steekkaart\|F Cognitief/steekkaart]] te maken 
+Uiteenrafelen is ook een zeer goede manier om een [[slim leren/steekkaart\|steekkaart]] te maken 
 
 
 

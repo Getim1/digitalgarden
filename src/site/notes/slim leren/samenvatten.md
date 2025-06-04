@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/slim leren/samenvatten/","created":"2025-06-03T21:08:11.754+02:00","updated":"2025-06-04T13:27:33.005+02:00"}
+{"dg-publish":true,"permalink":"/slim leren/samenvatten/","created":"2025-06-04T16:32:15.589+02:00","updated":"2025-06-04T17:21:47.670+02:00"}
 ---
+
 
 
 ### samenvatten vanuit de kerngedachten
@@ -12,7 +13,7 @@ Je schrijft die kerngedachte heel kort en in je eigen bewoordingen op op een apa
 Daarna draai je je blad om en probeert zoveel mogelijk neer te schrijven wat je je nog herinnert.
 
 Achteraf controleer je wat je goed had en wat je gemist hebt. Eventueel kan je dat met een teken in potlood in de marge aangeven. Als je dan nog eens dezelfde les studeert zie je wat moeilijker voor je is en wat niet. Je zal merken: bij een tweede of derde herhaling blijken heel veel dingen al goed in je geheugen verankerd te zijn. 
-### samenvatten met de [[F Cognitief/Cornell\|F Cognitief/Cornell]]-methode
+### samenvatten met de [[slim leren/Cornell\|Cornell]]-methode
 ### samenvatten vanuit de inhoudstafel
 
 Vaak heeft een boek een uitgewerkte inhoudstafel. En als die er niet is kan je die ook zelf maken.

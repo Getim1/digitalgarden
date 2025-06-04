@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/slim leren/mindmap/","created":"2025-06-03T21:16:21.925+02:00","updated":"2025-06-03T21:16:22.772+02:00"}
+{"dg-publish":true,"permalink":"/slim leren/mindmap/","created":"2025-06-04T16:32:15.579+02:00","updated":"2025-06-04T17:19:49.859+02:00"}
 ---
+
 
 ##  wat?
 Mindmappen is een manier in beeld brengen waarbij je de leerstof in steeds fijnere vertakkingen uiteenrafelt. DFoordat je de leerstof in één beeld samenvat, blijft dat gemakkelijker in je langetermijngeheugen hangen
@@ -18,4 +19,4 @@ Mindmappen werkt zo:
 - ## met de computer?
 - Er bestaan heel wat apps om op je computer of tablet te kunnen mindmappen. Sommige zijn betalend. Maar voor eenvoudig mindmappen kan je ook bij gratis programma's terecht.  www.mindonmap.com heeft ook een Nederlandstalige versie, rn voor wie Engels geen probleem is is ook www.mindmup.com of www.xmind.com een mogelijkheid.
 
-![Pasted image 20250325151555.png](/img/user/slim%20leren/Pasted%20image%2020250325151555.png)
+![Pasted image 20250325151555.png](/img/user/30%20slim%20leren/Pasted%20image%2020250325151555.png)

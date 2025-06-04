@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/slim leren/Cornell/","created":"2025-06-03T21:47:04.746+02:00","updated":"2025-06-03T21:47:05.775+02:00"}
+{"dg-publish":true,"permalink":"/slim leren/Cornell/","created":"2025-06-04T16:32:15.566+02:00","updated":"2025-06-04T17:16:12.765+02:00"}
 ---
+
 
 ## De Cornell-methode uitgelegd
 
@@ -28,4 +29,4 @@ Dek je hele blad af en probeer de kernwoorden uit de linkerkolom na te vertellen
 1. Het is heel interessant als je jouw Cornell-samenvatting kan uitwisselen met die van een medeleerling. Zeer vaak zie je nieuwe en interessante dingen.
 2. Het is belangrijk stap 3 niet langer dan een paar dagen na de les te doen. Stap 3 is ook de moeilijkste stap. Eens je die door bent zal je merken dat het steeds gemakkelijker wordt.
 3. Wees mild voor jezelf. Het kan niet allemaal van de eerste keer lukken. Je zal merken dat je eerste Cornells nog moeizaam gaan maar dat je er steeds meer vaardigheid in krijgt.
-4. Het stappenplan hiervoor is een algemeen kader. Als het voor jou beter uitkomt om daar aanpassingen aan te maken: vooral doen! Het gaat er om dat jij je eigen leermethodes vindt. ✅ 2025-02-15
+4. Het stappenplan hiervoor is een algemeen kader. Als het voor jou beter uitkomt om daar aanpassingen aan te maken: vooral doen! Het gaat er om dat jij je eigen leermethodes vindt. 

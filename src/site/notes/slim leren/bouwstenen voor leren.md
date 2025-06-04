@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/slim leren/bouwstenen voor leren/","created":"2025-06-03T21:54:09.438+02:00","updated":"2025-04-15T15:38:32.489+02:00"}
+{"dg-publish":true,"permalink":"/slim leren/bouwstenen voor leren/","created":"2025-06-04T16:32:15.558+02:00","updated":"2025-06-04T17:15:04.457+02:00"}
 ---
+
 
  
  
@@ -12,4 +13,4 @@
 - Kies methodes die bij jouw brein en bij het onderwerp passen. En vermijd methodes die waarschijnlijk niet effectief zijn, zoals herlezen, veel kleuren en highlighten, overschrijven, herbeluisteren,...
 
 ## reference
-[[99 slim leren/6 leerstrategieën\|6 leerstrategieën]]
+[[slim leren/6 leermethodes\|6 leermethodes]]

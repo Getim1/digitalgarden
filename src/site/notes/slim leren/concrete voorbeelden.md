@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/slim leren/concrete voorbeelden/","created":"2025-06-03T21:51:51.011+02:00","updated":"2025-06-04T13:27:32.972+02:00"}
+{"dg-publish":true,"permalink":"/slim leren/concrete voorbeelden/","tags":["#topic"],"created":"2025-06-04T16:32:15.562+02:00","updated":"2025-06-04T17:15:23.378+02:00"}
 ---
 
+
 # Wat?
-Het leren begrijpen van abstracte begrippen lukt beter als je die begrippen kan linken aan concrete voorbeelden.  Op die manier verbind je nieuwe begrippen met wat je voorheen al kende.  En extra verbindingen maken tussen kennisonderdelen is de sleutel voor beter leren. Zie [[F Cognitief/over hoe mensen leren\|F Cognitief/over hoe mensen leren]]
+Het leren begrijpen van abstracte begrippen lukt beter als je die begrippen kan linken aan concrete voorbeelden.  Op die manier verbind je nieuwe begrippen met wat je voorheen al kende.  En extra verbindingen maken tussen kennisonderdelen is de sleutel voor beter leren. Zie [[slim leren/over hoe mensen leren\|over hoe mensen leren]]
 
 ## bijvoorbeeld
 Om te leren wat een algoritme is kan je vertrekken van een definitie als "een algoritme is een opeenvolging van verschillende stappen om een taak te vervullen " 

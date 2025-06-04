@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/slim leren/gezonde levensstijl/","created":"2025-06-03T21:37:22.964+02:00","updated":"2025-06-03T21:37:23.273+02:00"}
+{"dg-publish":true,"permalink":"/slim leren/gezonde levensstijl/","created":"2025-06-04T16:32:15.574+02:00","updated":"2025-06-04T17:18:30.135+02:00"}
 ---
+
 
 
 ## wat?

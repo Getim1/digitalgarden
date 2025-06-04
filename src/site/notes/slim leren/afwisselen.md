@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/slim leren/afwisselen/","created":"2025-06-03T21:55:08.481+02:00","updated":"2025-06-03T21:55:08.499+02:00"}
+{"dg-publish":true,"permalink":"/slim leren/afwisselen/","tags":["#topic"],"created":"2025-06-04T16:32:15.555+02:00","updated":"2025-06-04T17:14:36.918+02:00"}
 ---
+
 
 # Wat?
 
