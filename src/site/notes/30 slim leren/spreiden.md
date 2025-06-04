@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/30-slim-leren/spreiden/","tags":["#topic"],"created":"2025-03-04T18:44:50.149+01:00","updated":"2025-04-01T10:34:47.717+02:00"}
+{"dg-publish":true,"dg-path":" slim leren/spreiden.md","permalink":"/ slim leren/spreiden/","tags":["#topic"],"created":"2025-06-04T13:25:55.057+02:00","updated":"2025-06-04T14:23:51.303+02:00"}
 ---
+
 
 # Wat?
 Je brein heeft tijd nodig om informatie verwerkt te krijgen. Precies daarom kan je soms meemaken dat je iets 's avonds moeilijk geleerd krijgt, terwijl het er de volgende morgen als vanzelf lijkt uit te komen. Je brein heeft tijdens je slaap de informatie verwerkt. Ook hierom is zorgen voor voldoende en goede nachtrust belangrijk in een leerproces.

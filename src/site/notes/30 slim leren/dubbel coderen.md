@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/30-slim-leren/dubbel-coderen/","created":"2025-03-04T18:44:54.602+01:00","updated":"2025-03-25T14:47:46.554+01:00"}
+{"dg-publish":true,"dg-path":" slim leren/dubbel coderen.md","permalink":"/ slim leren/dubbel coderen/","created":"2025-06-04T13:25:55.054+02:00","updated":"2025-06-04T14:23:10.214+02:00"}
 ---
+
 
 # Wat?
 Soms zegt één beeld meer dan duizend woorden. Dat is ook zo voor leren. We noemen dat visueel leren. Sommige mensen hebben daar veel aanleg voor: als ze iets één keer gezien hebben, blijft dat in hun geheugen 'plakken'. Voor de meeste mensen vraagt visueel leren wat oefening. Gelukkig zijn er veel hulpmiddelen beschikbaar. En dus kan je naargelang het onderwerp en naargelang je eigen voorkeur, van alles uitproberen tot je vindt wat goed werkt.

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/30-slim-leren/cornell/","created":"2025-03-04T18:44:51.096+01:00","updated":"2025-02-25T07:49:51.502+01:00"}
+{"dg-publish":true,"dg-path":" slim leren/Cornell.md","permalink":"/ slim leren/Cornell/","created":"2025-06-04T13:25:55.054+02:00","updated":"2025-06-04T14:22:58.106+02:00"}
 ---
+
 
 ## De Cornell-methode uitgelegd
 

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/30-slim-leren/concept-map/","created":"2025-03-25T14:53:28.733+01:00","updated":"2025-04-05T19:13:49.075+02:00"}
+{"dg-publish":true,"dg-path":" slim leren/concept map.md","permalink":"/ slim leren/concept map/","created":"2025-06-04T13:25:55.053+02:00","updated":"2025-06-04T14:22:45.688+02:00"}
 ---
+
 
 
 ## Wat?

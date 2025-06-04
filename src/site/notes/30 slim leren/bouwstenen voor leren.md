@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/30-slim-leren/bouwstenen-voor-leren/","created":"2025-03-04T18:44:50.267+01:00","updated":"2025-02-18T19:57:06.649+01:00"}
+{"dg-publish":true,"dg-path":" slim leren/bouwstenen voor leren.md","permalink":"/ slim leren/bouwstenen voor leren/","created":"2025-06-04T13:25:55.053+02:00","updated":"2025-06-04T14:22:42.541+02:00"}
 ---
+
 
  
  

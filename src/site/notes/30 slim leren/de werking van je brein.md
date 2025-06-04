@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/30-slim-leren/de-werking-van-je-brein/","created":"2025-03-04T18:44:51.148+01:00","updated":"2025-02-25T07:49:57.788+01:00"}
+{"dg-publish":true,"dg-path":" slim leren/de werking van je brein.md","permalink":"/ slim leren/de werking van je brein/","created":"2025-06-04T13:25:55.054+02:00","updated":"2025-06-04T14:23:00.922+02:00"}
 ---
+
 
 
 Hoe leren echt in zijn werk gaat, weten we eigenlijk nog niet precies. We weten wel dat leren gebeurt als zenuwen via hun uiteinden elektrische prikkels met elkaar uitwisselen.

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/30-slim-leren/welkom/","created":"2025-03-04T18:44:50.707+01:00","updated":"2025-02-18T19:57:47.147+01:00"}
+{"dg-publish":true,"dg-path":" slim leren/welkom.md","permalink":"/ slim leren/welkom/","created":"2025-06-04T13:25:55.058+02:00","updated":"2025-06-04T14:24:11.800+02:00"}
 ---
+
 
  
  

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/30-slim-leren/slim-leren-home/","tags":["gardenEntry"],"created":"2025-03-04T18:44:49.263+01:00","updated":"2025-04-05T19:25:36.525+02:00"}
+{"dg-publish":true,"dg-path":" slim leren/Slim Leren Home.md","permalink":"/ slim leren/Slim Leren Home/","tags":["gardenEntry"],"created":"2025-06-04T13:25:55.057+02:00","updated":"2025-06-04T14:23:47.465+02:00"}
 ---
+
 
 ## [[30 slim leren/welkom\|welkom]]
 

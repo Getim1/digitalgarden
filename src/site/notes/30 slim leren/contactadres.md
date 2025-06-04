@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/30-slim-leren/contactadres/","created":"2025-03-04T18:44:50.320+01:00","updated":"2025-02-18T19:57:10.839+01:00"}
+{"dg-publish":true,"dg-path":" slim leren/contactadres.md","permalink":"/ slim leren/contactadres/","created":"2025-06-04T13:25:55.054+02:00","updated":"2025-06-04T14:22:55.213+02:00"}
 ---
+
 
 Heb je vragen?
 Heb je opmerkingen of suggesties?

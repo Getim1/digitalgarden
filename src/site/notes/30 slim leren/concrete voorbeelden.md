@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/30-slim-leren/concrete-voorbeelden/","tags":["#topic"],"created":"2025-03-04T18:44:53.127+01:00","updated":"2025-03-21T19:48:34.275+01:00"}
+{"dg-publish":true,"dg-path":" slim leren/concrete voorbeelden.md","permalink":"/ slim leren/concrete voorbeelden/","tags":["#topic"],"created":"2025-06-04T13:25:55.054+02:00","updated":"2025-06-04T14:22:51.806+02:00"}
 ---
+
 
 # Wat?
 Het leren begrijpen van abstracte begrippen lukt beter als je die begrippen kan linken aan concrete voorbeelden.  Op die manier verbind je nieuwe begrippen met wat je voorheen al kende.  En extra verbindingen maken tussen kennisonderdelen is de sleutel voor beter leren. Zie [[30 slim leren/over hoe mensen leren\|over hoe mensen leren]]

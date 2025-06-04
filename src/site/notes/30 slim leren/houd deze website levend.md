@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/30-slim-leren/houd-deze-website-levend/","created":"2025-03-04T18:44:50.488+01:00","updated":"2025-04-05T19:28:47.718+02:00"}
+{"dg-publish":true,"dg-path":" slim leren/houd deze website levend.md","permalink":"/ slim leren/houd deze website levend/","created":"2025-06-04T13:25:55.055+02:00","updated":"2025-06-03T21:43:16.275+02:00"}
 ---
+
 
  
  Heeft deze website je geholpen? Fijn!

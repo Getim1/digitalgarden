@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/30-slim-leren/gezonde-levensstijl/","created":"2025-04-01T09:50:17.902+02:00","updated":"2025-04-05T19:14:47.409+02:00"}
+{"dg-publish":true,"dg-path":" slim leren/gezonde levensstijl.md","permalink":"/ slim leren/gezonde levensstijl/","created":"2025-06-04T13:25:55.055+02:00","updated":"2025-06-04T14:23:13.827+02:00"}
 ---
+
 
 
 ## wat?

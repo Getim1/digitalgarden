@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/30-slim-leren/statistisch-diagram/","created":"2025-03-13T10:58:30.762+01:00","updated":"2025-04-05T19:16:07.798+02:00"}
+{"dg-publish":true,"dg-path":" slim leren/statistisch diagram.md","permalink":"/ slim leren/statistisch diagram/","created":"2025-06-04T13:25:55.057+02:00","updated":"2025-06-04T14:23:55.273+02:00"}
 ---
+
 
 Rekenbladprogramma's geven een goed overzicht van mogelijke voorstellingen van statistische gegevens. Hieronder zie je, ter inspiratie, de mogelijkheden bij het programma LibreOffice Calc. Je kan natuurlijk zelf ook varianten verzinnen. Proberen is de boodschap.
 

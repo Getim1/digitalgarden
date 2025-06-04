@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/30-slim-leren/over-deze-website/","created":"2025-03-23T03:33:48.671+01:00","updated":"2025-04-06T09:46:14.423+02:00"}
+{"dg-publish":true,"dg-path":" slim leren/over deze website.md","permalink":"/ slim leren/over deze website/","created":"2025-06-04T13:25:55.056+02:00","updated":"2025-06-04T14:24:43.308+02:00"}
 ---
+
 
  Deze website is niet af. Deze website zal ook nooit af zijn. Zoals leren nooit af is en altijd verder gaat. 
 

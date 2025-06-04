@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/30-slim-leren/dom-leren/","created":"2025-03-04T18:44:51.196+01:00","updated":"2025-02-25T07:50:05.542+01:00"}
+{"dg-publish":true,"dg-path":" slim leren/dom leren.md","permalink":"/ slim leren/dom leren/","created":"2025-06-04T13:25:55.054+02:00","updated":"2025-06-04T14:23:06.990+02:00"}
 ---
+
 
 
 Sommige veelgebruikte leermethodes zijn nauwelijks nuttig:

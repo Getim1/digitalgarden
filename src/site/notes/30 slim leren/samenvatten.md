@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/30-slim-leren/samenvatten/","created":"2025-03-04T18:44:51.354+01:00","updated":"2025-02-25T07:50:56.315+01:00"}
+{"dg-publish":true,"dg-path":" slim leren/samenvatten.md","permalink":"/ slim leren/samenvatten/","created":"2025-06-04T13:25:55.056+02:00","updated":"2025-06-04T14:23:44.252+02:00"}
 ---
+
 
 
 ### samenvatten vanuit de kerngedachten

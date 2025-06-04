@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/30-slim-leren/uiteenrafelen/","created":"2025-03-04T18:44:51.458+01:00","updated":"2025-04-01T10:54:34.429+02:00"}
+{"dg-publish":true,"dg-path":" slim leren/uiteenrafelen.md","permalink":"/ slim leren/uiteenrafelen/","created":"2025-06-04T13:25:55.057+02:00","updated":"2025-06-04T14:24:01.579+02:00"}
 ---
+
 
 # Wat
 Een stuk leerstof studeren lijkt vaak op het uiteenrafelen van een touw. In één touw zitten verschillende strengen vervat, zodanig dat al die strengen samen  één sterk geheel vormen. Als je de verschillende bouwstenen van je leerstof kan vinden, kan je een sterk begrip krijgen van wat je leerde.

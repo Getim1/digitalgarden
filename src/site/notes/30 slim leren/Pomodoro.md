@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/30-slim-leren/pomodoro/","created":"2025-03-21T18:31:28.260+01:00","updated":"2025-04-05T19:15:37.836+02:00"}
+{"dg-publish":true,"dg-path":" slim leren/Pomodoro.md","permalink":"/ slim leren/Pomodoro/","created":"2025-06-04T13:25:55.056+02:00","updated":"2025-06-04T14:23:40.080+02:00"}
 ---
+
 
 Een heel goede techniek om voldoende afwisselend te studeren is de Pomodoro- methode.  Je hebt er alleen timer voor nodig en een strak plan. Het gaat als volgt:
 - Je zet je timer op 15 minuten

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/30-slim-leren/verbindingen/","created":"2025-03-25T15:01:58.002+01:00","updated":"2025-04-05T19:16:44.055+02:00"}
+{"dg-publish":true,"dg-path":" slim leren/verbindingen.md","permalink":"/ slim leren/verbindingen/","created":"2025-06-04T13:25:55.058+02:00","updated":"2025-06-04T14:24:04.534+02:00"}
 ---
+
 
 mogelijke verbanden:
 - hangt samen met ...
