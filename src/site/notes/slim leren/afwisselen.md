@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/slim leren/afwisselen/","tags":["#topic"],"created":"2025-06-04T16:32:15.555+02:00","updated":"2025-06-04T17:14:36.918+02:00"}
+{"dg-publish":true,"permalink":"/slim leren/afwisselen/","tags":["#topic"],"created":"2025-06-04T16:32:15.555+02:00","updated":"2025-07-17T14:25:27.982+02:00"}
 ---
 
 
@@ -16,4 +16,4 @@ Je kan ook afwisselen binnen eenzelfde vak:  bijvoorbeeld eerst woordenschat dan
 
 Ook als je nog eens snel de leerstof overloopt, bijvoorbeeld vlak voor een toets of proefwerk, wissel je best willekeurig af tussen de verschillende onderdelen uit de cursus.
 
-Je zal merken dat dit afwisselen eigenlijk lastiger is dan blijven doorstuderen aan één bepaald onderwerp. Maar het heeft wel voor gevolg dat je de dingen beter onthoudt omdat je brein telkens opnieuw een connectie moet oproepen met wat je al geleerd hebt. Je leert dus beter en sneller.
+Je zal merken dat dit afwisselen  lastiger is dan blijven doorstuderen aan één bepaald onderwerp. Maar het heeft wel voor gevolg dat je de dingen beter onthoudt omdat je brein telkens opnieuw een connectie moet oproepen met wat je al geleerd hebt. Je leert dus beter en sneller.
