@@ -11,5 +11,5 @@ Je vindt op deze website twee soorten links. De heldere  links brengen je naar e
 
 Op deze website zijn alle links tweerichtingslinks. Dat wil zeggen dat elke link een verbinding legt met een andere pagina én terug. Dat maakt het gemakkelijk om je begrip van de dingen uit te breiden door het zoeken via aanverwante begrippen heen en weer. Probeer maar uit. Je merkt vanzelf wel hoe dat werkt. Om je te helpen: Je vindt rechts bovenaan een grafische voorstelling van welke links aanwezig zijn voor je pagina. En onderaan rechts vind je alle links die verwijzen naar de pagina die je nu aan het bekijken bent.  Tot slot: aan de linkerkant vind je een uitvullijst met alle gepubliceerde pagina's van de website met bovenaan een link naar de homepagina Slim Leren.
 
-Rechts bovenaan vind je een voorstelling van de 'connected pages' Daar zie je hoe de huidige pagina verbonden is met de andere pagina's van deze site. In de schuifbalk 'depth' kan je aangeven of je die verbindingen één, twee of drie stappen ver wil zien. Probeer maar eens uit.
+
 
