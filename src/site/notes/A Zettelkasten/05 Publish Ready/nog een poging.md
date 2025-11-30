@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/a-zettelkasten/05-publish-ready/nog-een-poging/"}
+{"dg-publish":true,"permalink":"/A Zettelkasten/05 Publish Ready/nog een poging/"}
 ---
 
 

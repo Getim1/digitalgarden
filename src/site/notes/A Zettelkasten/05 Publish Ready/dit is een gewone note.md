@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/a-zettelkasten/05-publish-ready/dit-is-een-gewone-note/"}
+{"dg-publish":true,"permalink":"/A Zettelkasten/05 Publish Ready/dit is een gewone note/"}
 ---
 
 
